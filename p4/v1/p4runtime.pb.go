@@ -13,7 +13,7 @@ import (
 	codes "google.golang.org/grpc/codes"
 	status1 "google.golang.org/grpc/status"
 	math "math"
-	v1 "github.com/distrue/p4gontroller/p4/config/v1"
+	v1 "github.com/distrue/p4goruntime/p4/config/v1"
 )
 
 // Reference imports to suppress errors if they are not otherwise used.
