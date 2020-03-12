@@ -1,4 +1,4 @@
-### p4gocontroller
+### p4goruntime
 
 This repository is p4runtime api in golang, which was built from [p4lang/p4runtime](https://github.com/p4lang/p4runtime) protobuf definition.
 
